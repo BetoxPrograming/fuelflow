@@ -415,11 +415,11 @@ The use cases describe how the user interacts with the system and how the system
 
 ## User Management Diagram
 
-![User Management Use Case Diagram](assets/diagrams/user_management_use_case_diagram.png)
+![User Management Use Case Diagram](diagrams/user_management_use_case_diagram.png)
 
 ## Vehicle and Fuel Management Diagram
 
-![Vehicle and Fuel Management Use Case Diagram](assets/diagrams/vehicle_fuel_management_use_case_diagram.png)
+![Vehicle and Fuel Management Use Case Diagram](diagrams/vehicle_fuel_management_use_case_diagram.png)
 
 ---
 
