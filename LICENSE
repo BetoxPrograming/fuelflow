@@ -1,0 +1,106 @@
+FuelFlow Educational and Non-Commercial License
+Version 1.0
+
+Copyright (c) 2026 Alberto Zúñiga
+
+All rights reserved.
+
+1. Purpose
+
+This license governs the use, study, modification, and distribution of the FuelFlow project and all associated materials, including but not limited to source code, documentation, diagrams, database models, images, design artifacts, and future project components.
+
+The project is made publicly available for educational, academic, research, portfolio review, and learning purposes.
+
+2. Ownership
+
+All intellectual property rights associated with this project remain the exclusive property of the copyright holder.
+
+This license does not transfer ownership of any part of the project.
+
+3. Permitted Uses
+
+Subject to the conditions of this license, any person may:
+
+- View and study the source code.
+- Clone or fork the repository.
+- Use the project for personal learning.
+- Use the project in educational environments.
+- Use the project in academic assignments, coursework, or research activities.
+- Modify the project for personal, educational, or research purposes.
+- Reference portions of the project for teaching or learning purposes.
+
+4. Attribution
+
+Any public copy, fork, academic submission, presentation, or derivative work based on this project must retain:
+
+- The original copyright notice.
+- This license file.
+- Attribution to the original author.
+
+Attribution must clearly identify:
+
+"Original project: FuelFlow by Alberto Zúñiga"
+
+5. Restrictions
+
+Without prior written permission from the copyright holder, you may not:
+
+- Sell this project.
+- Sell any derivative work based on this project.
+- Include this project in a commercial product.
+- Include this project in a paid service.
+- Use this project for direct financial gain.
+- Offer consulting, training, or commercial services based primarily on this project.
+- Re-license this project under another license.
+- Represent this project as your original work.
+- Remove copyright notices or attribution requirements.
+
+6. Derivative Works
+
+You may create derivative works for personal, educational, academic, or research purposes.
+
+Derivative works must:
+
+- Preserve attribution to the original author.
+- Preserve this license.
+- Remain non-commercial unless separate written permission is granted.
+
+7. Contributions
+
+Any voluntary contribution submitted to this repository may be incorporated into the project.
+
+By submitting a contribution, you grant the project owner a perpetual, worldwide, non-exclusive right to use, modify, distribute, and incorporate that contribution within the project.
+
+8. No Warranty
+
+This project is provided "AS IS" without warranty of any kind, express or implied.
+
+The author makes no guarantees regarding:
+
+- Functionality.
+- Reliability.
+- Accuracy.
+- Security.
+- Fitness for a particular purpose.
+
+9. Limitation of Liability
+
+Under no circumstances shall the author be liable for any claim, damage, loss, or liability arising from the use of this project.
+
+10. Termination
+
+Any violation of this license automatically terminates the permissions granted under it.
+
+Upon termination, the violating party must immediately cease use, distribution, and modification of the project.
+
+11. Future Commercial Licensing
+
+The copyright holder reserves the right to offer separate commercial licenses for this project in the future.
+
+No rights to commercial use are granted by this license.
+
+12. Contact
+
+For commercial licensing inquiries or permission requests, please contact the copyright holder through the official repository or associated professional channels.
+
+END OF TERMS AND CONDITIONS
