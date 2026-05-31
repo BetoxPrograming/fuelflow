@@ -158,4 +158,4 @@ This flow includes session validation, current password entry, new password entr
 
 ➡️ Next document: [Database Design Documentation](04-database-design.md)
 
-his document continues the system design process by defining the FuelFlow MVP Phase 1 database structure, entities, attributes, relationships, normalization review, and relational model.
+This document continues the system design process by defining the FuelFlow MVP Phase 1 database structure, entities, attributes, relationships, normalization review, and relational model.
