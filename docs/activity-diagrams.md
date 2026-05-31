@@ -156,6 +156,6 @@ This flow includes session validation, current password entry, new password entr
 
 ⬅️ Previous document: [Use Cases Documentation](use-cases.md)
 
-➡️ Next document: Data Model Documentation *(Work in Progress)*
+➡️ Next document: [Database Design Documentation](database-design.md)
 
-This next document will contain the database structure, entities, attributes, relationships, constraints, and persistence model for FuelFlow MVP Phase 1.
+his document continues the system design process by defining the FuelFlow MVP Phase 1 database structure, entities, attributes, relationships, normalization review, and relational model.
