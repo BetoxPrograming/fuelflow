@@ -139,4 +139,4 @@ The following diagram represents the relational structure derived from the ERD.
 
 # 📚 Related Documentation
 
-⬅️ Previous document: [Activity Diagrams Documentation](activity-diagrams.md)
+⬅️ Previous document: [Activity Diagrams Documentation](03-activity-diagrams.md)

@@ -425,8 +425,8 @@ The use cases describe how the user interacts with the system and how the system
 
 # 📚 Related Documentation
 
-⬅️ Previous document: [Requirements Documentation](requirements.md)
+⬅️ Previous document: [Requirements Documentation](01-requirements.md)
 
-➡️ Next document: [Activity Diagrams Documentation](activity-diagrams.md)
+➡️ Next document: [Activity Diagrams Documentation](03-activity-diagrams.md)
 
 This next document contains the main UML activity diagrams for FuelFlow MVP Phase 1.

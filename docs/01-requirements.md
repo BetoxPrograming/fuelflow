@@ -320,6 +320,6 @@ The first MVP must work without depending on:
 
 # 📚 Related Documentation
 
-➡️ Next document: [Use Cases Documentation](use-cases.md)
+➡️ Next document: [Use Cases Documentation](02-use-cases.md)
 
 This document contains the complete UML use case specifications and use case flows for the FuelFlow MVP.
