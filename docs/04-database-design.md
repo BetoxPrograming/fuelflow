@@ -129,11 +129,9 @@ The following diagram represents the relational structure derived from the ERD.
 
 ---
 
->[!Note]
-
->The database design was reviewed up to Third Normal Form (3NF).
-
->The model is considered normalized up to 3NF for the scope of FuelFlow MVP Phase 1.
+> [!NOTE]
+> The database design was reviewed up to Third Normal Form (3NF).
+> The model is considered normalized up to 3NF for the scope of FuelFlow MVP Phase 1.
 
 ---
 
